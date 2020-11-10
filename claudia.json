@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "fuck-executor",
+    "name": "fuck",
+    "region": "eu-central-1"
+  },
+  "api": {
+    "id": "ds6hpjo8mb",
+    "module": "bot"
+  }
+}
